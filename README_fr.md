@@ -52,7 +52,7 @@ Le système utilise l’espace colorimétrique HSV pour la segmentation de l’o
 cd ~/catkin_ws/src
 
 # Cloner le dépôt
-git clone https://github.com/your_username/image_pkg.git
+git clone https://github.com/Tywh202/RGB-D-Based-Target-Tracking-and-Control-for-Mobile-Robots.git
 
 # Compiler
 cd ~/catkin_ws
