@@ -136,6 +136,7 @@ The robot will automatically enter the state cycle:
 ![Trajectory Plot](docs/trajectory_plot.png)
 
 
+https://github.com/user-attachments/assets/c4767ce2-2d3d-4d69-bc6a-8f826a56afd9
 
 
 ## 📚 References
