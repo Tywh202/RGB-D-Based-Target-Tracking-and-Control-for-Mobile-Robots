@@ -111,7 +111,7 @@ rosrun image_pkg tracking_metrics.py \
 
 ## 🎮 操作说明
 
-启动 `hsv_node_release.py` 后，会弹出三个 OpenCV 窗口：
+启动 `hsv_node_release.py` 后，会弹出五个 OpenCV 窗口，其中比较重要的是以下三个：
 
 | 窗口 | 功能 |
 |:---|:---|
