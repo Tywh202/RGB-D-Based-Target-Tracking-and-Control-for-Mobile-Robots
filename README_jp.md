@@ -111,7 +111,7 @@ rosrun image_pkg tracking_metrics.py \
 
 ## 🎮 操作説明
 
-`hsv_node_release.py` 起動後、3 つの OpenCV ウィンドウが表示されます：
+`hsv_node_release.py` 起動後、OpenCV ウィンドウが表示されます：
 
 | ウィンドウ | 機能 |
 |:---|:---|
