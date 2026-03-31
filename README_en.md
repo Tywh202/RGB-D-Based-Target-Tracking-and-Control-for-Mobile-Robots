@@ -138,16 +138,6 @@ The robot will automatically enter the state cycle:
 
 
 
-## 👥 Project Members
-
-| Name | Student ID |
-|:---|:---|
-| Yu Junjie | 125090879 |
-| Hu Jiahan | 125090199 |
-| Mou Ruilang | 125090497 |
-| Du Zhongtian | 125090109 |
-
-
 
 ## 📚 References
 
