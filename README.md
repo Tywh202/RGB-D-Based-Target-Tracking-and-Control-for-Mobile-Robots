@@ -1,4 +1,4 @@
-**Read this in other languages: [English](README.md), [中文](README_zh.md), [日本语](README_jp.md).**
+**Read this in other languages: [English](README_en.md), [中文](README.md), [日本语](README_jp.md).**
 # 🎯 基于 ROS 的 TurtleBot3 颜色目标追踪与控制系统 🤖
 
 
