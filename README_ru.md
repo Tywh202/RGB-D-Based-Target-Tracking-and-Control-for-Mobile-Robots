@@ -52,7 +52,7 @@
 cd ~/catkin_ws/src
 
 # Клонировать репозиторий
-git clone https://github.com/your_username/image_pkg.git
+git clone https://github.com/Tywh202/RGB-D-Based-Target-Tracking-and-Control-for-Mobile-Robots.git
 
 # Собрать
 cd ~/catkin_ws
