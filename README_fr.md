@@ -39,7 +39,7 @@ Le système utilise l’espace colorimétrique HSV pour la segmentation de l’o
 ## 🛠️ Prérequis système
 
 - 🐢 ROS Noetic
-- 🤖 Environnement de simulation TurtleBot3
+- 🤖 TurtleBot3
 - 📷 OpenCV
 - 🐍 Python 3
 
