@@ -2,9 +2,9 @@
 
 感谢以下开发者对本项目的贡献！
 
-| 姓名 | GitHub 用户名 | 角色 |
-| :--- | :--- | :--- |
-| 于竣杰 | [125090879](https://github.com/125090879) | 项目负责人 / 核心算法开发 |
-| 胡家晗 | [125090199](https://github.com/125090199) | ROS 节点集成 / 仿真测试 |
-| 牟瑞朗 | [125090497](https://github.com/125090497) | 视觉检测模块 / OpenCV 调优 |
-| 杜中天 | [125090109](https://github.com/125090109) | 状态机控制 / 文档编写 |
+| 姓名 | GitHub 用户名 |
+| :--- | :--- |
+| 于竣杰 | [125090879](https://github.com/yujunjie1) |
+| 胡家晗 | [125090199](https://github.com/hujiahan123) |
+| 牟瑞朗 | [125090497](https://github.com/mouruilang) |
+| 杜中天 | [125090109](https://github.com/duzhongtian) |
