@@ -39,7 +39,7 @@
 ## 🛠️ متطلبات النظام
 
 - 🐢 ROS Noetic
-- 🤖 بيئة محاكاة TurtleBot3
+- 🤖 TurtleBot3
 - 📷 OpenCV
 - 🐍 Python 3
 
