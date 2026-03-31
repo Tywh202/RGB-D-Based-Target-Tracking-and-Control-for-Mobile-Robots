@@ -134,7 +134,7 @@ The robot will automatically enter the state cycle:
 ![Detection Screenshot](docs/detection_screenshot.png)
 
 ### Robot Tracking Trajectory
-![Trajectory Plot](docs/trajectory_plot.png)
+![Trajectory Plot](docs/trajectory_plot.jpg)
 
 
 
