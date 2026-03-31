@@ -154,4 +154,3 @@ rosrun image_pkg tracking_metrics.py \
 - 📖 [ROS Wiki](http://wiki.ros.org/)
 - 📖 [OpenCV Documentation](https://docs.opencv.org/)
 - 📖 [wpr_simulation](https://github.com/6-robot/wpr_simulation.git)
-```
