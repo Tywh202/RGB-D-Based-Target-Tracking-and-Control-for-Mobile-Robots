@@ -39,7 +39,7 @@
 ## 🛠️ Системные требования
 
 - 🐢 ROS Noetic
-- 🤖 Среда симуляции TurtleBot3
+- 🤖 TurtleBot3
 - 📷 OpenCV
 - 🐍 Python 3
 
