@@ -143,3 +143,5 @@ El robot entrará automáticamente en el ciclo de estados:
 - 📖 [ROS Wiki](http://wiki.ros.org/)
 - 📖 [Documentación de OpenCV](https://docs.opencv.org/)
 - 📖 [wpr_simulation](https://github.com/6-robot/wpr_simulation.git)
+
+https://github.com/user-attachments/assets/c4767ce2-2d3d-4d69-bc6a-8f826a56afd9
