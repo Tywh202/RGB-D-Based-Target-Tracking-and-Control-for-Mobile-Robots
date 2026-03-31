@@ -111,7 +111,7 @@ rosrun image_pkg tracking_metrics.py \
 
 ## 🎮 Operation Instructions
 
-After launching `hsv_node_release.py`, three OpenCV windows will appear:
+After launching `hsv_node_release.py`, OpenCV windows will appear:
 
 | Window | Function |
 |:---|:---|
