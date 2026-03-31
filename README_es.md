@@ -39,7 +39,7 @@ El sistema emplea el espacio de color HSV para la segmentación del objetivo, co
 ## 🛠️ Requisitos del sistema
 
 - 🐢 ROS Noetic
-- 🤖 Entorno de simulación TurtleBot3
+- 🤖 TurtleBot3
 - 📷 OpenCV
 - 🐍 Python 3
 
