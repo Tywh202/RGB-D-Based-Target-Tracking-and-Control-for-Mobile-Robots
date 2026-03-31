@@ -133,7 +133,7 @@ rosrun image_pkg tracking_metrics.py \
 ![检测截图](docs/detection_screenshot.png)
 
 ### 机器人追踪轨迹
-![轨迹图](docs/trajectory_plot.png)
+![轨迹图](docs/trajectory_plot.jpg)
 
 
 
