@@ -52,7 +52,7 @@
 cd ~/catkin_ws/src
 
 # 克隆仓库
-git clone https://github.com/your_username/image_pkg.git
+git clone https://github.com/Tywh202/RGB-D-Based-Target-Tracking-and-Control-for-Mobile-Robots.git
 
 # 编译
 cd ~/catkin_ws
